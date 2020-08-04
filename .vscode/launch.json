@@ -13,7 +13,7 @@
       "remoteRoot": "/app",
       "cwd": "${workspaceFolder}",
       "skipFiles": [
-        "${workspaceFolder}/node_modules/**/*.js",
+        "${workspaceFolder}/node_modules/**/*.js"
       ]
     }
   ]
